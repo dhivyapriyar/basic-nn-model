@@ -167,4 +167,3 @@ model.predict(x_n1)
 
 Summarize the overall performance of the model based on the evaluation metrics obtained from testing data as a regressive neural network based prediction has been obtained.
 
-Include your result here
